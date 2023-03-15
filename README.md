@@ -1,6 +1,6 @@
 ## Hi - I'm Vinicius Fialho 👋
 
-🙋 DevOps, SRE, Enthusiastic of tecnology, content creation and coffee!
+🙋 DevOps, SRE, Enthusiastic of tecnology, content creation, coffee and wine!
 
 💼 Current work as a Site Reliablity Engineering at Recargapay
 
