@@ -49,8 +49,7 @@ Usually work with:
 <a href="https://twitter.com/VinciusFialho7?t=b8WMRYoZ1oVu1TBTCGeDvw&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:vinytisolution@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.buymeacoffee.com/vinifialho39" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
-<img src="[https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white](https://img.shields.io/github/followers/{vinycloud}.svg?style=social&label=Follow&maxAge=2592000)">
-</a>
+<img src="https://img.shields.io/github/followers/{vinycloud}.svg?style=social&label=Follow&maxAge=2592000"></a>
 </div>
 
 ## Always believe in you! You can do it! :)
