@@ -1,4 +1,4 @@
-## Hi - I'm Vinicius Fialho 👋
+## Hi - I'm Vinicius Fialho 👋 
 
 🙋 DevOps, SRE, Enthusiastic of tecnology, content creation, coffee and wine!
 
@@ -49,6 +49,7 @@ Usually work with:
 <a href="https://twitter.com/VinciusFialho7?t=b8WMRYoZ1oVu1TBTCGeDvw&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:vinytisolution@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.buymeacoffee.com/vinifialho39" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
+<a href="https://www.discordapp.com/users/6941" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
 </div>
 
 ## Always believe in you! You can do it! :)
@@ -56,3 +57,4 @@ Usually work with:
 ------------
 
 ![Vinicius github stats](https://github-readme-stats.vercel.app/api?username=vinycloud)
+<a href="http://github.com/vinycloud"><img alt="GitHub followers" src="https://img.shields.io/github/followers/vinycloud?style=social"></a>
