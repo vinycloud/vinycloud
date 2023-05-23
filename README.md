@@ -2,7 +2,7 @@
 
 🙋 DevOps, SRE, Cloud Analyst and a Enthusiastic of tecnology, content creation, coffee and wine!
 
-💼 Current work as a DevOps Engineering at PicPay
+💼 Current work as a DevOps Engineer at PicPay
 
 Usually work with:
 
