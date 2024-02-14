@@ -36,7 +36,7 @@ Usually work with:
 
 ## More about me:
 - trying to keep my mind and body health
-- sharing a little knowledge at https://blog.viniciusfialho.cf (In progress) 🛠️
+- sharing a little knowledge at https://blog.viniciusfialho.shop (In progress) 🛠️
 - lover of running, swimming and drink wine 
 
 ------------
