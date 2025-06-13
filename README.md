@@ -2,7 +2,7 @@
 
 🙋 DevOps, SRE, Cloud Analyst and a Enthusiastic of tecnology, content creation, coffee and wine!
 
-💼 Current work as a DevOps Engineer at PicPay
+💼 Current work as a DevOps Engineer at Líber Capital.
 
 Usually work with:
 
@@ -27,8 +27,8 @@ Usually work with:
 ## 🖥
 <div>
 <img >
-<img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-<img src="https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+<img src="https://img.shields.io/badge/Intel%20Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 
