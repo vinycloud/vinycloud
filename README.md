@@ -1,6 +1,6 @@
 ## Hi - I'm Vinicius Fialho 👋 
 
-🙋 DevOps, SRE, Cloud Analyst and a Enthusiastic of tecnology, content creation, coffee and wine!
+🙋 DevOps, SRE, Cloud Analyst and a Enthusiastic of tecnology, IA, content creation, coffee and wine!
 
 💼 Current work as a DevOps Engineer at Líber Capital.
 
