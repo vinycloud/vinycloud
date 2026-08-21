@@ -1,4 +1,4 @@
-## Hi - I'm Vinicius Fialho 👋 
+## Hi! - I'm Vinicius Fialho 👋 
 
 🙋 DevOps, SRE, Cloud Analyst and a Enthusiastic of tecnology, IA, content creation, coffee and wine!
 
