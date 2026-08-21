@@ -58,4 +58,5 @@ Usually work with:
 ------------
 
 ![Vinicius github stats](https://github-readme-stats.vercel.app/api?username=vinycloud)
+[![Vinicius Fialho GitHub stats](https://github-stats-extended.vercel.app/api?username=vinycloud)](https://github.com/stats-organization/github-stats-extended)
 <a href="http://github.com/vinycloud"><img alt="GitHub followers" src="https://img.shields.io/github/followers/vinycloud?style=social"></a>
